@@ -7,7 +7,7 @@ dotenv.config({
 export default {
   siteMetadata: {
     title: "Slick's Slices",
-    siteUrl: 'https://www.slick.pizza',
+    siteUrl: 'https://slicksss.netlify.app/',
     description: 'The best pizza',
     twitter: '@slicksSlices',
   },
